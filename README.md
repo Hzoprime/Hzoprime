@@ -2,4 +2,4 @@
 - Hate body temperature report on Feishu every day.
 - Donation~ https://paypal.me/Hzoprime
 
-<img src='https://github.com/Hzoprime/Hzoprime/blob/main/cat.jpeg' align='right' style=' width:100px;height:100 px'/>
+<img src='https://github.com/Hzoprime/Hzoprime/blob/main/cat.jpeg' style=' width:100px;height:100 px'/>
